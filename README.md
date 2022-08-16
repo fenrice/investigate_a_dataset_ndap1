@@ -2,7 +2,7 @@
 The first project of the three Udacity Data Analyst Nanodegree
 
 <a id='intro'></a>
-## Introduction
+## Project Summary
 
 In this project we investigate the No-show appointment data, downloaded from [Kaggle](https://www.kaggle.com/datasets/joniarroba/noshowappointments). It collects 100k Medical Appointments from Brazil, answering the main question on whether a patient will show up or not for their scheduled appointment.  We investigate different reasons to doscover which affect whether a patient will sure up by answering the following questions:
 
